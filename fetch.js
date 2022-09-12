@@ -59,7 +59,7 @@ num.map(num => num * 2);
 
 
 // remove a key value from an object
-
+ 
 const products = [
     {name:'laptop', price: 50000, brand:'lenevo', color: "silver"},
     {name:'phone', price: 5000, brand:'iphone', color: "blue"},
